@@ -4,7 +4,6 @@ description: >
 permalink: '/:year-:month-:day/:title.html'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fghaas.github.io"
-site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Florian Haas
