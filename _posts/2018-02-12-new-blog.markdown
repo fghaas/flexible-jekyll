@@ -1,0 +1,22 @@
+---
+layout: post
+title: OK, so here’s a new blog.
+description: Time to get back into the groove.
+img: https://farm1.staticflickr.com/300/31237553593_0014fb3566_k_d.jpg
+---
+It’s been a while since I maintained a blog that wasn’t primarily
+centered on things directly related to work. So I’m starting this
+thing here.
+
+You can still find my prior work blog
+[on the hastexo web site](https://www.hastexo.com/author/florian.html),
+the _even older_ (and by now woefully outdated) one at
+[wordpress.com](https://fghaas.wordpress.com/), and in the future
+there will likely be some blog posts on the
+[City Cloud blog](https://www.citycloud.com/blog/).
+
+For those of you interested in the technical details, this blog uses
+[GitHub Pages built with Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). The
+Jekyll theme is
+[Flexible-Jekyll](https://github.com/artemsheludko/flexible-jekyll) by
+[Artem Sheludko](https://github.com/artemsheludko).
