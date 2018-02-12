@@ -24,6 +24,8 @@ discus-identifier: mr-brown # add your discus identifier
 # Tracker
 analytics: # Google Analytics
 
+gems: [jekyll-paginate]
+
 # Build Settings
 markdown: kramdown
 plugins:
