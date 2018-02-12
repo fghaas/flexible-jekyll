@@ -3,7 +3,7 @@ description: >
   This is my personal blog.
 permalink: '/:year-:month-:day/:title.html'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fghaas.github.io"
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
