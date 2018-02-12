@@ -4,7 +4,11 @@ layout: main
 {% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}
+    {% if post.img contains '://' %}
+    <a class="post-thumbnail" style="background-image: url({{post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+    {% else %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+    {% endif %}
   {% else %}
   {% endif %}
   <div class="post-content">
