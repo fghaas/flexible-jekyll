@@ -14,13 +14,16 @@ social-github: fghaas
 social-linkedin: fghaas
 social-email: xahteiwi@gmail.com
 
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-feed
 
 # Build Settings
 markdown: kramdown
 plugins_dir:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
   - jemoji
 
 paginate: 8
