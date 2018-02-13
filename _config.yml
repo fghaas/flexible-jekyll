@@ -23,7 +23,7 @@ gems:
 
 # Build Settings
 markdown: kramdown
-plugins_dir:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
