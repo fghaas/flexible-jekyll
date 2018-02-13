@@ -5,8 +5,8 @@ description: Time to get back into the groove.
 img: https://farm1.staticflickr.com/300/31237553593_0014fb3566_k_d.jpg
 ---
 It’s been a while since I maintained a blog that wasn’t primarily
-centered on things directly related to work. So I’m starting this
-thing here.
+centered on specific, work-related technical issues. So I’m starting
+this thing here.
 
 You can still find my prior work blog
 [on the hastexo web site](https://www.hastexo.com/author/florian.html),
@@ -15,8 +15,27 @@ the _even older_ (and by now woefully outdated) one at
 there will likely be some blog posts on the
 [City Cloud blog](https://www.citycloud.com/blog/).
 
-For those of you interested in the technical details, this blog uses
-[GitHub Pages built with Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). The
-Jekyll theme is
+To be abundantly clear, none of what I write here is in any way
+endorsed by any company I am affiliated with. I don’t yet know whether
+this is going to go into any particular topical direction, hence the
+“fairly random ramblings” tagline. Chances are some of it is going to
+be about work, other bits not so much. We’ll see.
+
+For those of you interested in technical details, this blog uses
+[GitHub Pages built with Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). An
+Atom feed is [here](/feed.xml). The Jekyll theme is
 [Flexible-Jekyll](https://github.com/artemsheludko/flexible-jekyll) by
-[Artem Sheludko](https://github.com/artemsheludko).
+[Artem Sheludko](https://github.com/artemsheludko). Fonts are
+[Lato](https://fonts.google.com/specimen/Lato) for headings and
+[Cantarell](https://fonts.google.com/specimen/Cantarell) for body
+text.
+
+My mug shot is courtesy of
+[Trav Williams](https://twitter.com/BrokenBanjoTrav) from
+[Broken Banjo Photography](http://www.brokenbanjo.net/), and other
+images are my own unless credited otherwise. If you like the image in
+this post, you can [find it on Flickr](https://flic.kr/p/PAmCoe) and
+use it under
+[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+terms.
+
