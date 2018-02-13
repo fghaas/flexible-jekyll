@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Cantarell|Lato');
+
 @import 'normalize';
 @import 'syntax';
 @import 'variables';
@@ -11,12 +13,16 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: $body-font-family;
   color: $body-color;
   background-color: #fbfbfb;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
 }
 
 h1 {
