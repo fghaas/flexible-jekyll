@@ -14,6 +14,8 @@ social-github: fghaas
 social-linkedin: fghaas
 social-email: xahteiwi@gmail.com
 
+analytics: UA-114026555-1
+
 gems:
   - jekyll-paginate
   - jekyll-feed
