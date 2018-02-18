@@ -6,6 +6,9 @@ description: >
   office. But with little kids in the house, that’s a nontrivial
   endeavor.
 img: https://farm5.staticflickr.com/4671/40307389511_a27f8f917f_k_d.jpg
+tags:
+  - work
+  - family
 ---
 I’ve worked exclusively from home[^1] for the last 6½ years, and
 when I first started, my older kids were 7 and 6 years old. For the
@@ -150,6 +153,8 @@ suck at it. I hope. :smiley:
 
 
 * * *
+
+### Footnotes
 
 [^1]: Well, not *just* from home. Throughout the last few years I’ve
     traveled rather extensively, so I’ve also worked from planes,

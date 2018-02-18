@@ -3,6 +3,8 @@ layout: post
 title: OK, so here’s a new blog.
 description: Time to get back into the groove.
 img: https://farm1.staticflickr.com/300/31237553593_0014fb3566_k_d.jpg
+tags:
+  - tech
 ---
 It’s been a while since I maintained a blog that wasn’t primarily
 centered on specific, work-related technical issues. So I’m starting
