@@ -6,6 +6,7 @@ description: >
   office. But with little kids in the house, that’s a nontrivial
   endeavor.
 img: https://farm5.staticflickr.com/4671/40307389511_a27f8f917f_k_d.jpg
+image: https://farm5.staticflickr.com/4671/40307389511_a27f8f917f_k_d.jpg
 tags:
   - work
   - family
